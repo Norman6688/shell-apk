@@ -176,7 +176,7 @@ fun HomeScreen(
                     ) {
                         Column(horizontalAlignment = Alignment.CenterHorizontally) {
                             Icon(
-                                Icons.Default.Android,
+                                Icons.Default.Apps,
                                 contentDescription = null,
                                 modifier = Modifier.padding(bottom = 16.dp),
                                 tint = MaterialTheme.colorScheme.onSurfaceVariant
